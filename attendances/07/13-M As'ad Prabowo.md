@@ -7,4 +7,5 @@ pada botto mnavigation ini ada tiga button yaitu :
 2. Transaksi button :
     transaksi button ini berfungsi untuk menampilkan fitur penambahan transaksi pengeluaran uang. pada fitur ini pengguna dapat menambahkan pengeluaran seuai tanggal, nominal, kategori, dan catatan.
 3. Profile button :
-    profile button ini berfungsi untuk manampilkan halaman profile pengguna.
+    profile button ini berfungsi untuk manampilkan halaman profile pengguna. 
+    
